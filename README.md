@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @divymuradia
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on web development comany
+- 💞️ I’m looking to collaborate on web development company
 - 📫 How to reach me by github 
 
 <!---
